@@ -1,4 +1,0 @@
-dashboard link:
-
-
-https://sivamanoj.shinyapps.io/visu_shiny_pro/
